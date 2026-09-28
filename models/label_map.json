@@ -1,0 +1,50 @@
+{
+  "classes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "F",
+    "I",
+    "L",
+    "O",
+    "V",
+    "W",
+    "Y",
+    "HELLO",
+    "YES",
+    "I_LOVE_YOU"
+  ],
+  "display": {
+    "A": "Letter A",
+    "B": "Letter B",
+    "C": "Letter C",
+    "D": "Letter D",
+    "F": "Letter F",
+    "I": "Letter I",
+    "L": "Letter L",
+    "O": "Letter O",
+    "V": "Letter V",
+    "W": "Letter W",
+    "Y": "Letter Y",
+    "HELLO": "Hello \ud83d\udc4b",
+    "YES": "Yes / Good \ud83d\udc4d",
+    "I_LOVE_YOU": "I Love You \ud83e\udd1f"
+  },
+  "meaning": {
+    "A": "Closed fist, thumb at side",
+    "B": "Flat hand, fingers up, thumb across palm",
+    "C": "Curved hand forming a C shape",
+    "D": "Index up, other fingers touch thumb",
+    "F": "Index and thumb circle, others extended",
+    "I": "Pinky up, fist closed",
+    "L": "Index up, thumb out \u2014 L shape",
+    "O": "Fingertips meet thumb in an O",
+    "V": "Index and middle apart \u2014 victory sign",
+    "W": "Index, middle, ring extended",
+    "Y": "Thumb and pinky out \u2014 hang loose",
+    "HELLO": "Open palm, all fingers spread",
+    "YES": "Fist with thumb extended up",
+    "I_LOVE_YOU": "Thumb, index and pinky extended"
+  }
+}
